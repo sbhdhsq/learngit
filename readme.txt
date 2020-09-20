@@ -7,3 +7,4 @@ Creating a new branch is quick & simple.
 =======
 Creating a new branch is quick AND simple.
 >>>>>>> feather1
+Git tracks changes of.
